@@ -10,6 +10,6 @@ An EXE is coming soon! this only works with windows, so if you are using Linux, 
 
 ## HOW TO INSTALL
 
-[Click here to download](https://example.com)
+[virtualbox](https://virtualbox.org)
 
 
