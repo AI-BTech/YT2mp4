@@ -1,5 +1,5 @@
 # YT2mp4
-an open source mass video downloader!
+an open source mass video downloader! it will download the 3 most recently published yt video
 
 ## READ BEFORE INSTALLATION
 
