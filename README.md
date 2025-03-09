@@ -10,4 +10,6 @@ An EXE is coming soon! this only works with windows, so if you are using Linux, 
 
 ## HOW TO INSTALL
 
-(yes)[[example.com]]
+[Click here to download](https://example.com)
+
+
